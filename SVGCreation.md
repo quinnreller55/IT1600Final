@@ -16,10 +16,17 @@
             <a href="svgExample.html">Example</a>
         </li>
         <p>
-            (816)645-0305
+            Now you should have everything you need to create a simple SVG image!
+            If needed here are some other resources:
         </p>
+        <li>
+            <a href="Resources.md">Resources</a>
+        </li>
     </main>
     <section>
+        <li>
+            <a href="Congrats.md">Click here if you understand everything</a>
+        </li>
         <li>  
             <a href="README.md">Home</a>
         </li>
